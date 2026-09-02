@@ -8,8 +8,8 @@
 * **Dynamic Asset Inventory:** Real-time posture tracking (`SAFE`, `VULNERABLE`, `COMPROMISED`, `QUARANTINED`) with live vulnerability scoring.
 * **Threat Simulation Engine:** Fires realistic cyberattack vectors (SSH brute force, SQL injection, API unauthorized access, privilege escalation).
 * **Attack Scenario Batch Generator:** Simulates high-concurrency attack waves (Ransomware Surge, DDoS & Auth Flood, Database Breach Attempts).
-* **Stateful CISO Policy Engine:** Sliding-window event evaluation that automatically initiates network isolation (`AUTO_QUARANTINE`) upon exceeding critical threat thresholds.
-* **CISO Remediation Panel:** Manual override suite to deploy patches or isolate targeted infrastructure with full audit trail logging.
+* **CISO Policy Engine:** Evaluates threat event severity and calculates risk scores against configurable threshold limits.
+* **CISO Remediation Panel:** Manual control suite to deploy security patches or isolate targeted assets with full audit trail logging (`MANUAL_QUARANTINE` & `PATCH_DEPLOYED`).
 * **Executive Telemetry & Metrics:** Interactive Plotly charts visualizing 24-hour intraday incident streams, daily risk trajectories, and monthly remediation velocities.
 
 ## Project Structure
