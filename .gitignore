@@ -1,0 +1,6 @@
+```text
+.idea/
+__pycache__/
+*.pyc
+.venv/
+venv/
