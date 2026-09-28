@@ -41,7 +41,7 @@ dry_sandbox/
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/rutush2/dry-sandbox.git](https://github.com/YOUR_USERNAME/dry-sandbox.git)
+git clone [https://github.com/rutush2/dry-sandbox.git](https://github.com/rutush2/dry-sandbox.git)
 cd dry-sandbox
 
 ```
